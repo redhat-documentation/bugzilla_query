@@ -1,6 +1,6 @@
 [package]
 name = "bugzilla_query"
-authors = ["Marek Suchánek <marek.suchanek@protonmail.com>"]
+authors = ["Marek Suchánek <marek.suchanek@protonmail.com>", "Marc Mühlfeld <mmuehlfeld@redhat.com>"]
 version = "1.2.0"
 edition = "2021"
 # Check the Rust version using `cargo msrv verify`.
@@ -9,8 +9,8 @@ license = "Apache-2.0"
 description = "Access bugs on a remote Bugzilla instance."
 readme = "README.md"
 documentation = "https://docs.rs/bugzilla_query/"
-homepage = "https://github.com/msuchane/bugzilla_query"
-repository = "https://github.com/msuchane/bugzilla_query"
+homepage = "https://github.com/redhat-documentation/bugzilla_query"
+repository = "https://github.com/redhat-documentation/bugzilla_query"
 keywords = ["bugzilla", "rest"]
 categories = ["api-bindings"]
 
